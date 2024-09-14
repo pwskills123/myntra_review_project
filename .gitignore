@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-scrapper.egg-info
+scrapper.egg-info/
 # C extensions
 *.so
 
